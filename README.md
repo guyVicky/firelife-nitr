@@ -8,4 +8,4 @@ Live demo [here]().
 
 ## Screenshots
 
-## Made with ❣️ by ikran
+## Made with ❣️ by Vikrant
