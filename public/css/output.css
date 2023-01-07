@@ -542,6 +542,10 @@ video {
   height: 100vh;
 }
 
+.h-40 {
+  height: 10rem;
+}
+
 .w-screen {
   width: 100vw;
 }
@@ -556,6 +560,10 @@ video {
 
 .w-48 {
   width: 12rem;
+}
+
+.w-40 {
+  width: 10rem;
 }
 
 .-translate-x-10 {
